@@ -28,16 +28,17 @@ You can use the website to generate badges: https://shields.io/
 [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=flat&labelColor=E1306C&logo=instagram&logoColor=white)](https://www.instagram.com/bartuatabek/)
 
 <!-- Talking about you -->
-**Bio**
 
-<p float="left">
+<p>
   <!-- Your github readme stats
   You can use this api: https://github.com/anuraghazra/github-readme-stats
   -->
   <a href="https://github.com/bartuatabek?tab=repositories">
-  <img width="50%" align="right" alt="Bartu's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=bartuatabek&show_icons=true&hide_border=true" />
+  <img width="55%" align="right" alt="Bartu's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=bartuatabek&show_icons=true&hide_border=true" />
   </a>
-
+  
+  **Bio**
+  
   - 👨🏻‍💻 I’m currently working on some [**~~classified~~**](https://github.com/bartuatabek/tinitron) stuff;
   - 🌱 I’m currently learning ML, Deep Learning, and NPL; 
   - ❤️ Show some ✨ by starring some of the repositories!;
