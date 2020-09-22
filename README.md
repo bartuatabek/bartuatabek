@@ -41,7 +41,7 @@ You can use the website to generate badges: https://shields.io/
   
   - 👨🏻‍💻 I’m currently working on some [**~~classified~~**](https://github.com/bartuatabek/tinitron) stuff;
   - 🌱 I’m currently learning ML, Deep Learning, and NPL; 
-  - ❤️ Show some ✨ by starring some of the repositories!;
+  - ✨ Show some ❤️ by starring some of the repositories!;
   - 💬 Ask me about anything, I am happy to help;
 </p>
 
