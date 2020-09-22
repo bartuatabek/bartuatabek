@@ -27,8 +27,6 @@ You can use the website to generate badges: https://shields.io/
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://linkedin.com/in/bartu-atabek/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=flat&labelColor=E1306C&logo=instagram&logoColor=white)](https://www.instagram.com/bartuatabek/)
 
-&nbsp;
-
 <!-- Talking about you -->
 **Bio**
 
