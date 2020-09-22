@@ -30,20 +30,21 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **Bio**
 
+<p float="left">
   <!-- Your github readme stats
   You can use this api: https://github.com/anuraghazra/github-readme-stats
   -->
-   <a href="https://github.com/bartuatabek?tab=repositories">
-    <img width="55%" align="right" alt="Bartu's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=bartuatabek&show_icons=true&hide_border=true" />
+  <a href="https://github.com/bartuatabek?tab=repositories">
+  <img width="50%" align="right" alt="Bartu's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=bartuatabek&show_icons=true&hide_border=true" />
   </a>
 
-- 👨🏻‍💻 I’m currently working on some [**~~classified~~**](https://github.com/bartuatabek/tinitron) stuff;
-- 🌱 I’m currently learning ML, Deep Learning, and NPL; 
-- ❤️ Show some ✨ by starring some of the repositories!;
-- 💬 Ask me about anything, I am happy to help;
+  - 👨🏻‍💻 I’m currently working on some [**~~classified~~**](https://github.com/bartuatabek/tinitron) stuff;
+  - 🌱 I’m currently learning ML, Deep Learning, and NPL; 
+  - ❤️ Show some ✨ by starring some of the repositories!;
+  - 💬 Ask me about anything, I am happy to help;
+</p>
 
-&nbsp;
-
+ 
 **Programming Languages**
 <p>  
   <!-- Your languages and tools. Be careful with the alignment. 
