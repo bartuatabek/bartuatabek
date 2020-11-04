@@ -25,8 +25,9 @@ You can use the website to generate badges: https://shields.io/
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/bartuatabek)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://linkedin.com/in/bartu-atabek/)
+<!--
 [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=flat&labelColor=E1306C&logo=instagram&logoColor=white)](https://www.instagram.com/bartuatabek/)
-
+-->
 <!-- Talking about you -->
 
 <p>
@@ -40,7 +41,7 @@ You can use the website to generate badges: https://shields.io/
   **Bio**
   
   - 👨🏻‍💻 I’m currently working on some [**~~classified~~**](https://github.com/bartuatabek/tinitron) stuff;
-  - 🌱 I’m currently learning ML, Deep Learning, and NPL; 
+  - 🧙🏻‍♂️Currently practicing my dark magic skills; 
   - ✨ Show some ❤️ by starring some of the repositories!;
   - 💬 Ask me about anything, I am happy to help;
 </p>
