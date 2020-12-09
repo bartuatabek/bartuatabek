@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/bartuatabek)
+[![Github](https://img.shields.io/badge/-Github-262626?style=flat&logo=Github&logoColor=white)](https://github.com/bartuatabek)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://linkedin.com/in/bartu-atabek/)
 <!--
 [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=flat&labelColor=E1306C&logo=instagram&logoColor=white)](https://www.instagram.com/bartuatabek/)
@@ -35,7 +35,7 @@ You can use the website to generate badges: https://shields.io/
   You can use this api: https://github.com/anuraghazra/github-readme-stats
   -->
   <a href="https://github.com/bartuatabek?tab=repositories">
-  <img width="55%" align="right" alt="Bartu's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=bartuatabek&show_icons=true&hide_border=true" />
+  <img width="55%" align="right" alt="Bartu's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=bartuatabek&show_icons=true&hide_border=true&bg_color=00000000&text_color=C0C0C0&title_color=007AFF&icon_color=007AFF" />
   </a>
   
   **Bio**
@@ -62,15 +62,15 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://img.shields.io/badge/c%20-%23FFFFFF.svg?&style=for-the-badge&logo=c&logoColor=00599C"></code>
-  <code><img width="10%" src="https://img.shields.io/badge/c++%20-%23FFFFFF.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=00599C"></code>
+  <code><img width="10%" src="https://img.shields.io/badge/c-rgba(0, 0, 0, 0).svg?&style=for-the-badge&logo=c&logoColor=blue"></code>
+  <code><img width="10%" src="https://img.shields.io/badge/C++-rgba(0, 0, 0, 0).svg?style=for-the-badge&logo=c%2B%2B&logoColor=blue"></code>
   
   **Libraries & Frameworks**
   <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="15%" src="https://img.shields.io/badge/latex%20-%23FFFFFF.svg?&style=for-the-badge&logo=latex&logoColor=008080"/></code>
+  <code><img width="10%" src="https://img.shields.io/badge/latex-rgba(0, 0, 0, 0).svg?&style=for-the-badge&logo=latex&logoColor=008080"/></code>
   </p>
   
   **Tools & Platforms**
@@ -85,7 +85,7 @@ You can use the website to generate badges: https://shields.io/
   <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/zeplinio/zeplinio-ar21.svg"></code>
-  <code><img width="15%" src="https://img.shields.io/badge/adobe%20-%23FFFFFF.svg?&style=for-the-badge&logo=adobe&logoColor=black"/></code>
+  <code><img width="10%" src="https://img.shields.io/badge/adobe-rgba(0, 0, 0, 0).svg?&style=for-the-badge&logo=adobe&logoColor=ff3b30"/></code>
   </p>
 </p>
   
