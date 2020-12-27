@@ -47,8 +47,7 @@ You can use the website to generate badges: https://shields.io/
   - 💬 Ask me about anything, I am happy to help;
 </p>
 
- &nbsp;
- 
+
 <!-- Your languages and tools. Be careful with the alignment. 
 You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
 --> 
