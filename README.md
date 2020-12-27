@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 -->
 
 <!-- Your title -->
-## Hello there 👋
+## Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 ### I'm Bartu Atabek
 #### Software Engineer | Designer | A human. Being. I make art with code.
----
+<p> You have finally discovered my Github profile. Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.</p>
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-
+---
 [![Github](https://img.shields.io/badge/-Github-262626?style=flat&logo=Github&logoColor=white)](https://github.com/bartuatabek)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://linkedin.com/in/bartu-atabek/)
 <!--
@@ -37,57 +37,70 @@ You can use the website to generate badges: https://shields.io/
   <a href="https://github.com/bartuatabek?tab=repositories">
   <img width="55%" align="right" alt="Bartu's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=bartuatabek&show_icons=true&hide_border=true&bg_color=00000000&text_color=777&title_color=007AFF&icon_color=007AFF" />
   </a>
-  
+
   **Bio**
   
-  - 👨🏻‍💻 I’m currently working on some [**~~classified~~**](https://github.com/bartuatabek/tinitron) stuff;
+  - 👨🏻‍💻 I’m currently working on some [**~~classified~~**](https://github.com/bartuatabek/tinitron-pro) stuff;
   - 🧙🏻‍♂️Currently practicing my dark magic skills; 
   - ✨ Show some ❤️ by starring some of the repositories!;
+  - 😄 Pronouns: He/his
   - 💬 Ask me about anything, I am happy to help;
 </p>
 
  &nbsp;
  
-**Programming Languages**
-<p>  
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://img.shields.io/badge/c-rgba(0, 0, 0, 0).svg?&style=for-the-badge&logo=c&logoColor=blue"></code>
-  <code><img width="10%" src="https://img.shields.io/badge/C++-rgba(0, 0, 0, 0).svg?style=for-the-badge&logo=c%2B%2B&logoColor=blue"></code>
-  
-  **Libraries & Frameworks**
+<!-- Your languages and tools. Be careful with the alignment. 
+You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+--> 
+<details>
+  <summary><strong>Programming Languages</strong></summary>
+
   <p>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="10%" src="https://img.shields.io/badge/latex-rgba(0, 0, 0, 0).svg?&style=for-the-badge&logo=latex&logoColor=008080"/></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+    <br/>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+    <code><img width="10%" src="https://img.shields.io/badge/c-rgba(0, 0, 0, 0).svg?&style=for-the-badge&logo=c&logoColor=blue"></code>
+    <code><img width="10%" src="https://img.shields.io/badge/C++-rgba(0, 0, 0, 0).svg?style=for-the-badge&logo=c%2B%2B&logoColor=blue"></code>
   </p>
+</details> 
+
+<details>
+  <summary><strong>Libraries & Frameworks</strong></summary>
   
-  **Tools & Platforms**
   <p>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+    <code><img width="10%" src="https://img.shields.io/badge/latex-rgba(0, 0, 0, 0).svg?&style=for-the-badge&logo=latex&logoColor=008080"/></code>
   </p>
+</details> 
+
+<details>
+  <summary><strong>Tools & Platforms</strong></summary>
   
-  **Design**
   <p>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/zeplinio/zeplinio-ar21.svg"></code>
-  <code><img width="10%" src="https://img.shields.io/badge/adobe-rgba(0, 0, 0, 0).svg?&style=for-the-badge&logo=adobe&logoColor=ff3b30"/></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  </p> 
+</details> 
+
+<details>
+  <summary><strong>Design</strong></summary>
+  
+  <p>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/zeplinio/zeplinio-ar21.svg"></code>
+    <code><img width="10%" src="https://img.shields.io/badge/adobe-rgba(0, 0, 0, 0).svg?&style=for-the-badge&logo=adobe&logoColor=ff3b30"/></code>
   </p>
-</p>
+</details> 
   
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
