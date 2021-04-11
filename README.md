@@ -36,7 +36,7 @@ You can use the website to generate badges: https://shields.io/
   You can use this api: https://github.com/anuraghazra/github-readme-stats
   -->
 
-  <a>
+  <a href="#">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=bartuatabek&show_icons=true&hide_border=true&bg_color=00000000&text_color=777&title_color=007AFF&icon_color=007AFF&count_private=true"/>
   </a>
 
@@ -48,7 +48,7 @@ You can use the website to generate badges: https://shields.io/
   - 😄 Pronouns: He/him/his
   - 💬 Ask me about anything, I am happy to help;
 
-  <a>
+  <a href="#">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartuatabek&layout=compact&hide_border=true&bg_color=00000000&text_color=777&title_color=007AFF"/>
   </a>
 </p>
