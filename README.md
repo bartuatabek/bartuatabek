@@ -35,9 +35,6 @@ You can use the website to generate badges: https://shields.io/
   <!-- Your github readme stats
   You can use this api: https://github.com/anuraghazra/github-readme-stats
   -->
-<!--   <a href="https://github.com/bartuatabek?tab=repositories">
-  <img width="55%" align="right" alt="Bartu's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=bartuatabek&show_icons=true&hide_border=true&bg_color=00000000&text_color=777&title_color=007AFF&icon_color=007AFF" />
-  </a> -->
 
   **Bio**
   
@@ -49,10 +46,10 @@ You can use the website to generate badges: https://shields.io/
 </p>
 
 <a href="https://github.com/bartuatabek">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartuatabek&layout=compact&hide_border=true&bg_color=00000000&text_color=777&title_color=007AFF" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bartuatabek&show_icons=true&hide_border=true&bg_color=00000000&text_color=777&title_color=007AFF&icon_color=007AFF&count_private=true" />
 </a>
 <a href="https://github.com/bartuatabek">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bartuatabek&show_icons=true&hide_border=true&bg_color=00000000&text_color=777&title_color=007AFF&icon_color=007AFF&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartuatabek&layout=compact&hide_border=true&bg_color=00000000&text_color=777&title_color=007AFF" />
 </a>
 
 <!-- Your languages and tools. Be careful with the alignment. 
