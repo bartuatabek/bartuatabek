@@ -49,7 +49,7 @@ You can use the website to generate badges: https://shields.io/
   - 💬 Ask me about anything, I am happy to help;
 
   <a href="https://github.com/bartuatabek">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartuatabek&layout=compact&hide_border=true&bg_color=00000000&text_color=777&title_color=007AFF"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartuatabek&layout=compact&hide_border=true&bg_color=00000000&text_color=777&title_color=007AFF"/>
   </a>
 </p>
 
