@@ -37,11 +37,11 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 ### About Me
 
-:technologist: &nbsp;Currently working as a Software Engineer at [Rocket Lawyer](https://www.rocketlawyer.com/) \
+:technologist: &nbsp;Currently working as a Researcher at [METU](https://metu.edu.tr/).\
 :seedling: &nbsp;Love for science and innovation.\
 :heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
 :writing_hand: &nbsp;Currently researching Brain computer interfaces, Transactive memory, and spatial computing.\
-:hammer_and_wrench: &nbsp;Coding since 2016 with 3+ years of experience in enterprise wide software development.\
+:hammer_and_wrench: &nbsp;Coding since 2016 with 3+ years of experience in enterprise wide software development.
 
 
 <!-- Your languages and tools. Be careful with the alignment. 
