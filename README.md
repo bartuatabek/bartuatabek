@@ -16,56 +16,44 @@ Here are some ideas to get you started:
 <!-- Your title -->
 ## Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 ### I'm Bartu Atabek
-#### Software Engineer | Designer | A human. Being. I make art with code.
-<p> You have finally discovered my Github profile. Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.</p>
+#### Software Engineer | Designer | Researcher | A human. Being. I make art with code.
+<p> Feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. Show some ❤️ by starring some of the repositories! Ask me about anything, I am happy to help.</p>
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
----
-[![Github](https://img.shields.io/badge/-Github-262626?style=flat&logo=Github&logoColor=white)](https://github.com/bartuatabek)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://linkedin.com/in/bartu-atabek/)
-[![Website](https://img.shields.io/badge/-Website-e2e2e2?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAAAzCAMAAAA3r39rAAABuVBMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACxWxgFAAAAknRSTlMABAYgIyQtLzM0Nj9ERktRUlNUVVdYWl5gYWVmZ2hpamtsbm9wc3R1d3h5ent8fn+BhIWGh4iKi4yNjpOUmJmanZ6jpKanqKqrra6vsLKztLW2t7i5u7y9vr/BwsPExsfIycrLzM3Oz9DS09TV1tfY2dvc3d7f4OHi4+Xm5+jp6uvs7e7v8PHz9PX29/n6+/z9/ntL6qIAAAKESURBVHjaYpCrsGagKiiaNIm6BhYOfQNHDRw1cNTAUQPlAwoAjdRzsyNBAEXxu7Zt27Zt7z7btm2/yfnEW13BZJLpTn5/T53uG8yM5y0v95Y9XqlMbhV2Li573nzbn4uW4Jdp8DUfl8OW0mV8CzkhwXcYTHTWtwzPYbRtkU0JxuJ4S13bhIfxOyW4fgigNH75zR9GAJ4r1NkFYPbXPkWdzF0EpnYkBw8vA9+U7NookK8QT4GFp0r2BuCKHzwKDG1Qik9AjdK8AKqUqgO4ngh6UKl0F4AKpbgMvFO6PGB3LNjp3yToNFCqIA/eKkwBTMeCMKhwh4EyJavxjwhZ/Tce3CJrMbj6AMzIYkUE1kaD/2R1MLi6Gu7K5p0pmSAKcK2GSdl5zJsgjfK5Vz+Ej7IrgiMm+EROh/w7FsBe2d2C9ya4VW5HEp/jO2bkAqVZvQ8PJVZnODtCuyXo+GZcFulSmysYWF2vjKBH5c5gYHVTFsEOfYNDysKRLIrroV134I0cWoY3+cUGOT0xwTVmt90d+OJ/M7jv2GyC6oFdsmqD/dmuXgsm+MD13zsKQ0rY5l5dHA1qEq7JYgyuy7cj4jh9P7HgJVhapVAF0SeCRdvqOfCij5fDuMK8BVYrwKxuUZg+qB2PBjUCU+uV5idwVSl2Aq1KNwAzmokPmgQeKWhjN/BMafZGYPqwgq4uwdw6P2j69J6Xb80fgHsKsX0BqNkh38FWYHydkoL6CzCdc1PGsVdtABM77D9O6P98RsblH6NEX2+BoPZ0E7T8Vlb3pggaPiVjNhE0TlQukTDwUk73O0mINFxR1BRdCjj++k9Da1vx19vrlNnlz3ltrc25788o4UbHuf+KCXLIBNQBMQAAAABJRU5ErkJggg==)](https://infinitus.cf)
-<!--
-[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=flat&labelColor=E1306C&logo=instagram&logoColor=white)](https://www.instagram.com/bartuatabek/)
--->
-<!-- Talking about you -->
-
-<p>
-  <!-- Your github readme stats
-  You can use this api: https://github.com/anuraghazra/github-readme-stats
-  -->
-
-  <a href="#">
-    <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=bartuatabek&theme=dark&hide_border=true&ring=48484A&fire=FF375F&currStreakLabel=48484A&background=00000000&currStreakNum=FF375F&sideNums=E5E5EA&sideLabels=D1D1D6"/>
+<div style="display: flex; justify-content: space-between;">
+<p align="left">
+  <a href="https://github.com/bartuatabek">
+    <img src="https://img.shields.io/badge/-Github-262626?style=flat&logo=Github&logoColor=white"/>
   </a>
-
-  **Bio**
-  
-  - 👨🏻‍💻 I’m currently working on some [**~~classified~~**](https://github.com/bartuatabek/tinitron-pro) stuff;
-  - 🧙🏻‍♂️Currently practicing my dark magic skills; 
-  - ✨ Show some ❤️ by starring some of the repositories!;
-  - 😄 Pronouns: He/him/his
-  - 💬 Ask me about anything, I am happy to help;
+  <a href="http://linkedin.com/in/bartu-atabek/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="https://infinitus.cf">
+    <img src="https://img.shields.io/badge/-Website-e2e2e2?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAAAzCAMAAAA3r39rAAABuVBMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACxWxgFAAAAknRSTlMABAYgIyQtLzM0Nj9ERktRUlNUVVdYWl5gYWVmZ2hpamtsbm9wc3R1d3h5ent8fn+BhIWGh4iKi4yNjpOUmJmanZ6jpKanqKqrra6vsLKztLW2t7i5u7y9vr/BwsPExsfIycrLzM3Oz9DS09TV1tfY2dvc3d7f4OHi4+Xm5+jp6uvs7e7v8PHz9PX29/n6+/z9/ntL6qIAAAKESURBVHjaYpCrsGagKiiaNIm6BhYOfQNHDRw1cNTAUQPlAwoAjdRzsyNBAEXxu7Zt27Zt7z7btm2/yfnEW13BZJLpTn5/T53uG8yM5y0v95Y9XqlMbhV2Li573nzbn4uW4Jdp8DUfl8OW0mV8CzkhwXcYTHTWtwzPYbRtkU0JxuJ4S13bhIfxOyW4fgigNH75zR9GAJ4r1NkFYPbXPkWdzF0EpnYkBw8vA9+U7NookK8QT4GFp0r2BuCKHzwKDG1Qik9AjdK8AKqUqgO4ngh6UKl0F4AKpbgMvFO6PGB3LNjp3yToNFCqIA/eKkwBTMeCMKhwh4EyJavxjwhZ/Tce3CJrMbj6AMzIYkUE1kaD/2R1MLi6Gu7K5p0pmSAKcK2GSdl5zJsgjfK5Vz+Ej7IrgiMm+EROh/w7FsBe2d2C9ya4VW5HEp/jO2bkAqVZvQ8PJVZnODtCuyXo+GZcFulSmysYWF2vjKBH5c5gYHVTFsEOfYNDysKRLIrroV134I0cWoY3+cUGOT0xwTVmt90d+OJ/M7jv2GyC6oFdsmqD/dmuXgsm+MD13zsKQ0rY5l5dHA1qEq7JYgyuy7cj4jh9P7HgJVhapVAF0SeCRdvqOfCij5fDuMK8BVYrwKxuUZg+qB2PBjUCU+uV5idwVSl2Aq1KNwAzmokPmgQeKWhjN/BMafZGYPqwgq4uwdw6P2j69J6Xb80fgHsKsX0BqNkh38FWYHydkoL6CzCdc1PGsVdtABM77D9O6P98RsblH6NEX2+BoPZ0E7T8Vlb3pggaPiVjNhE0TlQukTDwUk73O0mINFxR1BRdCjj++k9Da1vx19vrlNnlz3ltrc25788o4UbHuf+KCXLIBNQBMQAAAABJRU5ErkJggg=="/>
+  </a>
 </p>
 
-<br/>
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=bartuatabek&style=plastic&label=Views"><img>
+<img src="https://badges.pufler.dev/visits/bartuatabek/bartuatabek?color=black&logo=github" />
+</p>
+</div>
+
+<!-- Talking about you -->
+### About Me
+
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Software Engineer at [Rocket Lawyer](https://www.rocketlawyer.com/) \
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching Brain computer interfaces, Transactive memory, and spatial computing.\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2016 with 3+ years of experience in enterprise wide software development.\
+
 
 <!-- Your languages and tools. Be careful with the alignment. 
 You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
 --> 
-<details>
-  <summary><strong>GitHub Stats</strong></summary>
-  
-  <p>
-    <a href="#">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=bartuatabek&show_icons=true&hide_border=true&bg_color=00000000&text_color=777&title_color=007AFF&icon_color=007AFF&count_private=true"/>
-    </a>
-    <a href="#">
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartuatabek&layout=compact&hide_border=true&bg_color=00000000&text_color=777&title_color=007AFF"/>
-    </a>
-  </p>
-</details> 
 
 <details>
   <summary><strong>Programming Languages</strong></summary>
@@ -108,22 +96,24 @@ You can use this sites to get logos: https://www.vectorlogo.zone or https://simp
 </details> 
 
 <details>
-  <summary><strong>Design</strong></summary>
-  
-  <p>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/zeplinio/zeplinio-ar21.svg"></code>
-    <code><img width="10%" src="https://img.shields.io/badge/adobe-rgba(0, 0, 0, 0).svg?&style=for-the-badge&logo=adobe&logoColor=ff3b30"/></code>
-  </p>
-</details> 
-  
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
--->
-<p align="left">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=bartuatabek.bartuatabek" alt="visitor badge"/>
-</p>
+  <summary><b>GitHub Statistics</b></summary>
+  <br/>
+    <p align="center">
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=bartuatabek&hide_border=true&theme=nightowl" />
+    </p>
+    <p align="center">
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=bartuatabek&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartuatabek&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+    </p>
+</details>
 
+<br/>
+<hr/>
+<br/>
+  
+<!-- <p align="center">
+ <a href="https://ko-fi.com/">
+   <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com" data-canonical-src="https://ko-fi.com/img/githubbutton_sm.svg" style="max-width: 100%;">
+ </a>
+</p> -->
 
 
