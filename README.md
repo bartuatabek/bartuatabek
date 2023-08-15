@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-<div style="display: flex; justify-content: space-between;">
 <p align="left">
   <a href="https://github.com/bartuatabek">
     <img src="https://img.shields.io/badge/-Github-262626?style=flat&logo=Github&logoColor=white"/>
@@ -35,20 +34,14 @@ You can use the website to generate badges: https://shields.io/
   </a>
 </p>
 
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=bartuatabek&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/bartuatabek/bartuatabek?color=black&logo=github" />
-</p>
-</div>
-
 <!-- Talking about you -->
 ### About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Software Engineer at [Rocket Lawyer](https://www.rocketlawyer.com/) \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching Brain computer interfaces, Transactive memory, and spatial computing.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2016 with 3+ years of experience in enterprise wide software development.\
+:technologist: &nbsp;Currently working as a Software Engineer at [Rocket Lawyer](https://www.rocketlawyer.com/) \
+:seedling: &nbsp;Love for science and innovation.\
+:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
+:writing_hand: &nbsp;Currently researching Brain computer interfaces, Transactive memory, and spatial computing.\
+:hammer_and_wrench: &nbsp;Coding since 2016 with 3+ years of experience in enterprise wide software development.\
 
 
 <!-- Your languages and tools. Be careful with the alignment. 
@@ -109,6 +102,11 @@ You can use this sites to get logos: https://www.vectorlogo.zone or https://simp
 <br/>
 <hr/>
 <br/>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=bartuatabek&style=plastic&label=Views"><img>
+<img src="https://badges.pufler.dev/visits/bartuatabek/bartuatabek?color=black&logo=github" />
+</p>
   
 <!-- <p align="center">
  <a href="https://ko-fi.com/">
