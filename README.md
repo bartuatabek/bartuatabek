@@ -37,7 +37,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 ### About Me
 
-:technologist: &nbsp;Currently working as a PhD student & Researcher in Neuroergonomics Lab at [Drexel Universtiy](https://ayazlab.com/).\
+:technologist: &nbsp;Currently working as a PhD student/Researcher in [Neuroergonomics Lab](https://ayazlab.com/) @ Drexel.\
 :seedling: &nbsp;Love for science and innovation.\
 :heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
 :writing_hand: &nbsp;Currently researching Brain computer interfaces, Transactive memory, and spatial computing.\
